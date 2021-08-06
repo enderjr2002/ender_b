@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          empezamos en 3 2 1 ¡vamos!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="https://damiandeluca.com.ar/visual-studio-code-atajos-de-teclado-shortcuts"
+          target="_black"
           rel="noopener noreferrer"
         >
-          Learn React
+          te va a ayudar
         </a>
       </header>
     </div>
